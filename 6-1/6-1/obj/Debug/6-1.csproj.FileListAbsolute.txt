@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\6-1\6-1\bin\Debug\6-1.exe.config
+C:\Users\root\source\repos\6-1\6-1\bin\Debug\6-1.exe
+C:\Users\root\source\repos\6-1\6-1\bin\Debug\6-1.pdb
+C:\Users\root\source\repos\6-1\6-1\obj\Debug\6-1.csprojAssemblyReference.cache
+C:\Users\root\source\repos\6-1\6-1\obj\Debug\6-1.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\6-1\6-1\obj\Debug\6-1.exe
+C:\Users\root\source\repos\6-1\6-1\obj\Debug\6-1.pdb
